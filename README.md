@@ -94,7 +94,7 @@ The image filename should be the student name.
 Example:
 
 Shreya.jpg
-Rahul.png
+Samarth.png
 
 
 ### 5️⃣ Run the Program
